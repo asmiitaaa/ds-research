@@ -1,0 +1,16 @@
+Wordlist,Structure,BuildTime_s,LookupTime_s,PythonPeak_MB,RSSIncrease_MB
+TWL06,Normal MPHF,8.122,0.635,7.51,275.64
+TWL06,Hybrid ≤3,8.487,0.491,7.46,4.75
+TWL06,Hybrid ≤8,6.02,0.633,7.34,1.0
+German,Normal MPHF,25.342,5.056,81.14,624.5
+German,Hybrid ≤3,22.17,5.47,81.0,81.01
+German,Hybrid ≤8,18.916,4.508,80.7,11.4
+SOWPODS,Normal MPHF,7.489,0.945,11.05,-20.25
+SOWPODS,Hybrid ≤3,6.748,0.808,11.01,0.0
+SOWPODS,Hybrid ≤8,6.399,0.765,10.87,0.0
+French,Normal MPHF,7.714,1.249,17.01,16.62
+French,Hybrid ≤3,5.708,1.084,16.94,12.75
+French,Hybrid ≤8,5.135,1.13,16.81,12.62
+Italian,Normal MPHF,5.515,0.251,4.25,0.0
+Italian,Hybrid ≤3,3.702,0.25,4.17,0.0
+Italian,Hybrid ≤8,2.806,0.247,4.06,0.0
